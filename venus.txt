@@ -1,2 +1,4 @@
 Venus is beautiful and full of love
 Change
+Pour effectuer une modification et la partager, il faut utiliser push
+Afin de recuperer les modifications faire pull
