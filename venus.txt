@@ -3,9 +3,6 @@ Change
 Pour effectuer une modification et la partager, il faut utiliser push
 
 Afin de recuperer les modifications faire pull
-<<<<<<< HEAD
-
 Wolfman change also the code.
-=======
 Est_ce qu'on voit si quelqu'un d'autres modfie au meme moment
->>>>>>> 586c2fc3656a19aaf514c8e5ebf60e65de23f2d6
+
